@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 1 Задание 1\Консоль\prog1\zadanie1.1\zadanie1.1\bin\Debug\zadanie1.1.exe.config
+C:\Учебная практика\Неделя 1 Задание 1\Консоль\prog1\zadanie1.1\zadanie1.1\bin\Debug\zadanie1.1.exe
+C:\Учебная практика\Неделя 1 Задание 1\Консоль\prog1\zadanie1.1\zadanie1.1\bin\Debug\zadanie1.1.pdb
+C:\Учебная практика\Неделя 1 Задание 1\Консоль\prog1\zadanie1.1\zadanie1.1\obj\Debug\zadanie1.1.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 1 Задание 1\Консоль\prog1\zadanie1.1\zadanie1.1\obj\Debug\zadanie1.1.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 1 Задание 1\Консоль\prog1\zadanie1.1\zadanie1.1\obj\Debug\zadanie1.1.exe
+C:\Учебная практика\Неделя 1 Задание 1\Консоль\prog1\zadanie1.1\zadanie1.1\obj\Debug\zadanie1.1.pdb
