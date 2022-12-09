@@ -1,6 +1,0 @@
-C:\Учебная практика\Неделя 1 Задание 2\Консоль\prog1.2\prog1.2\bin\Debug\prog1.2.exe.config
-C:\Учебная практика\Неделя 1 Задание 2\Консоль\prog1.2\prog1.2\bin\Debug\prog1.2.exe
-C:\Учебная практика\Неделя 1 Задание 2\Консоль\prog1.2\prog1.2\bin\Debug\prog1.2.pdb
-C:\Учебная практика\Неделя 1 Задание 2\Консоль\prog1.2\prog1.2\obj\Debug\prog1.2.csproj.CoreCompileInputs.cache
-C:\Учебная практика\Неделя 1 Задание 2\Консоль\prog1.2\prog1.2\obj\Debug\prog1.2.exe
-C:\Учебная практика\Неделя 1 Задание 2\Консоль\prog1.2\prog1.2\obj\Debug\prog1.2.pdb
